@@ -1,0 +1,63 @@
+%% Creator: Inkscape 0.48.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'hardwareRobot.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{240bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.52666667)%
+    \put(0,0){\includegraphics[width=\unitlength]{hardwareRobot.pdf}}%
+    \put(0.16214442,0.39099391){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\mu\tn{C}_1$}}}%
+    \put(0.359947,0.39099391){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\mu\tn{C}_2$}}}%
+    \put(0.78483129,0.40779099){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{PC}}}%
+    \put(0.58225296,0.43529099){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{TCP}}}%
+    \put(0.17089197,0.06927862){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Arm}}}%
+    \put(0.15435431,0.22866888){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{pos.}}}}%
+    \put(0.21652227,0.23179388){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{vel.}}}}%
+    \put(0.26684456,0.23014349){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{cur.}}}}%
+    \put(0.31763496,0.23702114){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{ref.}}}}%
+  \end{picture}%
+\endgroup%
